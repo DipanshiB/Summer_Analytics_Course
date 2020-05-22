@@ -12,4 +12,6 @@ Week 3 Linear Regression : https://docs.google.com/forms/d/e/1FAIpQLSc0vp3lSL2G8
 
 Week 3 Quiz : https://docs.google.com/forms/d/e/1FAIpQLSezRdgy1e0vT0ohJueKg3jkBLpUN0PTI7OwxbOaVYvJKdOMYA/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
 
+Week 4 Assignment : https://docs.google.com/forms/d/e/1FAIpQLScYa1PwUFw_AnzEbwQmoI2mB3ruaFeZaVN1jh8c72_M0fHyRw/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
+
 Week 4 Quiz : https://docs.google.com/forms/d/e/1FAIpQLSfYltgLzUItsdadMdwHXL4Yeb-UwBfh4vpTE27HJU5dJAG6-g/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
