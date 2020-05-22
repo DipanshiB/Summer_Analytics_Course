@@ -11,3 +11,5 @@ Week 2 Quiz : https://docs.google.com/forms/d/e/1FAIpQLSdKkK4gbfflOTYzFTBD6oAo0h
 Week 3 Linear Regression : https://docs.google.com/forms/d/e/1FAIpQLSc0vp3lSL2G8fYKVXSjT9i3oDacm3kgWftwGHGyCFWeGSihsA/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
 
 Week 3 Quiz : https://docs.google.com/forms/d/e/1FAIpQLSezRdgy1e0vT0ohJueKg3jkBLpUN0PTI7OwxbOaVYvJKdOMYA/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
+
+Week 4 Quiz : https://docs.google.com/forms/d/e/1FAIpQLSfYltgLzUItsdadMdwHXL4Yeb-UwBfh4vpTE27HJU5dJAG6-g/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
