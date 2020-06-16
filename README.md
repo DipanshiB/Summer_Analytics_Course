@@ -8,10 +8,13 @@ Week 1 Quiz : https://docs.google.com/forms/d/e/1FAIpQLSd_NgQo6i6sGRVH9QY-2YuyDF
 
 Week 2 Quiz : https://docs.google.com/forms/d/e/1FAIpQLSdKkK4gbfflOTYzFTBD6oAo0h37hsE6XkNdrZJqWHTJoFfFLw/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
 
-Week 3 Linear Regression : https://docs.google.com/forms/d/e/1FAIpQLSc0vp3lSL2G8fYKVXSjT9i3oDacm3kgWftwGHGyCFWeGSihsA/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
+Week 3 Assignment : https://docs.google.com/forms/d/e/1FAIpQLSc0vp3lSL2G8fYKVXSjT9i3oDacm3kgWftwGHGyCFWeGSihsA/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
 
 Week 3 Quiz : https://docs.google.com/forms/d/e/1FAIpQLSezRdgy1e0vT0ohJueKg3jkBLpUN0PTI7OwxbOaVYvJKdOMYA/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
 
 Week 4 Assignment : https://docs.google.com/forms/d/e/1FAIpQLScYa1PwUFw_AnzEbwQmoI2mB3ruaFeZaVN1jh8c72_M0fHyRw/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
 
 Week 4 Quiz : https://docs.google.com/forms/d/e/1FAIpQLSfYltgLzUItsdadMdwHXL4Yeb-UwBfh4vpTE27HJU5dJAG6-g/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
+
+Week 5 Assignment : 
+https://docs.google.com/forms/d/e/1FAIpQLScySIwug_jc7HMiMAwZwtAVr9qbBEtGs0g9jA6B-MLe0pyqTw/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
