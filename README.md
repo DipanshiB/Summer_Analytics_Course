@@ -18,3 +18,6 @@ Week 4 Quiz : https://docs.google.com/forms/d/e/1FAIpQLSfYltgLzUItsdadMdwHXL4Yeb
 
 Week 5 Assignment : 
 https://docs.google.com/forms/d/e/1FAIpQLScySIwug_jc7HMiMAwZwtAVr9qbBEtGs0g9jA6B-MLe0pyqTw/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
+
+Week 5 Quiz : 
+https://docs.google.com/forms/d/e/1FAIpQLScydaup5E8VoeQQe9nk_Ilod4R05-ACHTHySr5qMJLRwJcxxQ/viewscore?viewscore=AE0zAgDZ3al30PtkYbmaGulPqMla_NGZ_lOTNNQBzme9
